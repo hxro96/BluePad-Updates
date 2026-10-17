@@ -1,11 +1,8 @@
 {
-"app_name": "BluePad",
-"latest_version": "2.0.0",
-"version_code": 2,
-"minimum_version_code": 1,
-"apk_url": "https://github.com/hxro96/BluePad-Updates/releases/download/v2.0.0/BluePad.apk",
-"release_notes": "الإصدار 2.0.0 من BluePad يتضمن تحسينات وإصلاحات.",
-"file_size": 0,
-"mandatory": false,
-"sha256": ""
+  "client": {
+    "version": "2.0.0",
+    "build": 2,
+    "url": "https://github.com/hxro96/BluePad-Updates/releases/download/v2.0.0/BluePad.apk",
+    "notes": "الإصدار 2.0.0 من BluePad يتضمن تحسينات وإصلاحات."
+  }
 }
