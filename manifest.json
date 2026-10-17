@@ -4,5 +4,11 @@
     "build": 2,
     "url": "https://github.com/hxro96/BluePad-Updates/releases/download/v2.0.0/BluePad.apk",
     "notes": "الإصدار 2.0.0 من BluePad يتضمن تحسينات وإصلاحات."
+  },
+  "server": {
+    "version": "1.0.0",
+    "build": 1,
+    "url": "https://github.com/hxro96/BluePad-Updates/releases/download/server-v1.0.0/HeroServer.zip",
+    "notes": "الإصدار 1.0.0 من HERO Server."
   }
 }
