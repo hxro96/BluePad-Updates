@@ -1,8 +1,8 @@
 {
   "client": {
-    "version": "2.0.0",
-    "build": 2,
-    "url": "https://github.com/hxro96/BluePad-Updates/releases/download/v2.0.0/BluePad.apk",
+    "version": "3.0.0",
+    "build": 3,
+    "url": "https://github.com/hxro96/BluePad-Updates/releases/download/v3.0.0/BluePad.apk",
     "notes": "الإصدار 3.0.0 من BluePad يتضمن تحسينات وإصلاحات."
   },
   "server": {
