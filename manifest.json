@@ -1,14 +1,14 @@
 {
   "client": {
-    "version": "3.9.0",
-    "build": 3,
-    "url": "https://github.com/hxro96/BluePad-Updates/releases/download/v3.9.0/BluePad.apk",
-    "notes": "الإصدار 3.9.0 من BluePad يتضمن تحسينات وإصلاحات."
+    "version": "4.0.0",
+    "build": 4,
+    "url": "https://github.com/hxro96/BluePad-Updates/releases/download/v4.0.0/BluePad.apk",
+    "notes": "الإصدار 4.0.0 من BluePad يتضمن تحسينات وإصلاحات."
   },
   "server": {
-    "version": "2.0.0",
-    "build": 2,
-    "url": "https://github.com/hxro96/BluePad-Updates/releases/download/server-v2.0.0/HeroServer.zip",
-    "notes": "الإصدار 2.0.0 من HERO Server."
+    "version": "3.0.0",
+    "build": 3,
+    "url": "https://github.com/hxro96/BluePad-Updates/releases/download/server-v3.0.0/HeroServer.zip",
+    "notes": "الإصدار 3.0.0 من HERO Server."
   }
 }
